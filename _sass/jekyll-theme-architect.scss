@@ -188,12 +188,15 @@ form {
 /* GENERAL ELEMENT TYPE STYLES */
 
 #main-content h1 {
+  height: 43px;
+  margin-bottom: 15px;
   margin-top: 0;
   margin-bottom: 0;
   // font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: 2.2em;
   font-weight: normal;
   color: #474747;
+  border-bottom : solid 2px #f0f0f0;
   text-indent: 6px;
   letter-spacing: -1px;
 }
